@@ -48,4 +48,11 @@ return new RedirectResponse($this->urlGenerator->generate('home'));
 # créer un formulaire d'authentification avec la class Admin
 php bin/console make:registration-form  pas d'envoi de mail, rediriger vers home
 
+# créer entity Categorie
+le champ nom
+effectuer les migrations
+
+# créer entity Article
+
+
 
